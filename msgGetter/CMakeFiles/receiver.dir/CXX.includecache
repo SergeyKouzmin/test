@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../rabbitmq/amqpcpp/include/AMQPcpp.h
+cstdlib
+-
+cstdio
+-
+cstring
+-
+strings.h
+../../rabbitmq/amqpcpp/include/strings.h
+unistd.h
+-
+stdint.h
+-
+amqp.h
+../../rabbitmq/amqpcpp/include/amqp.h
+amqp_framing.h
+../../rabbitmq/amqpcpp/include/amqp_framing.h
+iostream
+-
+vector
+-
+map
+-
+memory
+-
+
+/home/user/Programs/projects/msgGetter/receiver.cpp
+AMQPcpp.h
+/home/user/Programs/projects/msgGetter/AMQPcpp.h
+iostream
+-
+

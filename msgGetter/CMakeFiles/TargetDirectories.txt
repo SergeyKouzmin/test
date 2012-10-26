@@ -1,0 +1,3 @@
+/home/user/Programs/projects/msgGetter/CMakeFiles/receiver.dir
+/home/user/Programs/projects/msgGetter/CMakeFiles/receiver2.dir
+/home/user/Programs/projects/msgGetter/CMakeFiles/sender.dir
