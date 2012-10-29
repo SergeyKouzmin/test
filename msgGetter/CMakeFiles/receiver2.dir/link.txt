@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/receiver2.dir/receiver2.cpp.o  -o receiver2 -rdynamic ../../rabbitmq/amqpcpp/libamqpcpp.a ./librabbitmq.a 
